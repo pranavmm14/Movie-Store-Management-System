@@ -17,7 +17,7 @@ public class MoviesDaoImpl implements MoviesDao {
 	public Connection getConnection() throws SQLException {
 		String url = "jdbc:oracle:thin:@localhost:1521:xe";
 		String user = "SYS as SYSDBA";
-		String pwd = "abcd";
+		String pwd = "????";
 		return DriverManager.getConnection(url, user, pwd);
 	}
 

@@ -71,6 +71,4 @@ The **Movie Store Management System** is a robust application designed to manage
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## Contact
-
-For any questions or feedback, please reach out to [pranavmehe14@gmail.com](mailto:pranavmehe14@gmail.com).
+---

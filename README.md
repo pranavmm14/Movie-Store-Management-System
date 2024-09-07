@@ -39,7 +39,7 @@ The **Movie Store Management System** is a robust application designed to manage
 1. **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/yourusername/movie-store-management-system.git
+    git clone https://github.com/pranavmm14/Movie-Store-Management-System.git
     ```
 
 2. **Set Up Oracle Database:**
